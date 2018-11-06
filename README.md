@@ -1,4 +1,4 @@
-#repro-node-dot-bug
+# repro-node-dot-bug
 
 
 when running `node .` in node versions >= 10 it may run ../`process.cwd()`.js
