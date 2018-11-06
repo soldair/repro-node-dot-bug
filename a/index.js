@@ -1,1 +1,1 @@
-console.log('a/index.js')
+console.log('\ta/index.js')
